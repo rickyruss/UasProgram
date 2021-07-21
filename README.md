@@ -1,3 +1,2 @@
-# UasProgram
-Iuran Kas RT
+# UasProgram Iuran Kas RT
 # Link Demo: https://rickyrusandi.000webhostapp.com/
